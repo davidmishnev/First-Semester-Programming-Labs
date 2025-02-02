@@ -1,10 +1,5 @@
 # `sprintf` Implementation
 
-## Tools and Requirements
-
-- The task must be implemented in C (C11 or later).
-- The server builds the project using C17.
-
 ## Task Description
 
 The goal is to write a program that includes a function capable of converting numbers from one numeral system to another, with additional formatting.
