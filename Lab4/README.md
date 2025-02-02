@@ -15,8 +15,3 @@ Write a program that converts a **PNG image** between **palette/grayscale** and 
 
 - **Transparency (alpha channel) must be ignored** in the input image.
 - The conversion must be **lossless** (i.e., the output image must be **exactly** reversible to the original).
-
-## Implementation Requirements
-
-- The program must accept arguments via the **command line**:
-
