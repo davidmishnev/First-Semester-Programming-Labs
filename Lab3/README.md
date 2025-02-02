@@ -1,5 +1,7 @@
 # Infix Notation Parser and Evaluator
 
+(AST-tree implementation lab).
+
 ## Task Description
 
 The program must parse and evaluate an arithmetic expression written in **infix notation**.
